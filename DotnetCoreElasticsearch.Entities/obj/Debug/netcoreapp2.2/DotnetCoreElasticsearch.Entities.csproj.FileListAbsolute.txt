@@ -1,0 +1,9 @@
+D:\Projeler\ElasticSearchTest\DotnetCoreElasticsearch\DotnetCoreElasticsearch.Entities\bin\Debug\netcoreapp2.2\DotnetCoreElasticsearch.Entities.deps.json
+D:\Projeler\ElasticSearchTest\DotnetCoreElasticsearch\DotnetCoreElasticsearch.Entities\bin\Debug\netcoreapp2.2\DotnetCoreElasticsearch.Entities.dll
+D:\Projeler\ElasticSearchTest\DotnetCoreElasticsearch\DotnetCoreElasticsearch.Entities\bin\Debug\netcoreapp2.2\DotnetCoreElasticsearch.Entities.pdb
+D:\Projeler\ElasticSearchTest\DotnetCoreElasticsearch\DotnetCoreElasticsearch.Entities\obj\Debug\netcoreapp2.2\DotnetCoreElasticsearch.Entities.csproj.CoreCompileInputs.cache
+D:\Projeler\ElasticSearchTest\DotnetCoreElasticsearch\DotnetCoreElasticsearch.Entities\obj\Debug\netcoreapp2.2\DotnetCoreElasticsearch.Entities.AssemblyInfoInputs.cache
+D:\Projeler\ElasticSearchTest\DotnetCoreElasticsearch\DotnetCoreElasticsearch.Entities\obj\Debug\netcoreapp2.2\DotnetCoreElasticsearch.Entities.AssemblyInfo.cs
+D:\Projeler\ElasticSearchTest\DotnetCoreElasticsearch\DotnetCoreElasticsearch.Entities\obj\Debug\netcoreapp2.2\DotnetCoreElasticsearch.Entities.dll
+D:\Projeler\ElasticSearchTest\DotnetCoreElasticsearch\DotnetCoreElasticsearch.Entities\obj\Debug\netcoreapp2.2\DotnetCoreElasticsearch.Entities.pdb
+D:\Projeler\ElasticSearchTest\DotnetCoreElasticsearch\DotnetCoreElasticsearch.Entities\obj\Debug\netcoreapp2.2\DotnetCoreElasticsearch.Entities.csprojAssemblyReference.cache

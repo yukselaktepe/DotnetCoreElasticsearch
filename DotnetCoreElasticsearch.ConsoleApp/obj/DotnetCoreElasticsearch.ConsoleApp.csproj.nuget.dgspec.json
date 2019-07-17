@@ -1,0 +1,128 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projeler\\ElasticSearchTest\\DotnetCoreElasticsearch\\DotnetCoreElasticsearch.ConsoleApp\\DotnetCoreElasticsearch.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "D:\\Projeler\\ElasticSearchTest\\DotnetCoreElasticsearch\\DotnetCoreElasticsearch.ConsoleApp\\DotnetCoreElasticsearch.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projeler\\ElasticSearchTest\\DotnetCoreElasticsearch\\DotnetCoreElasticsearch.ConsoleApp\\DotnetCoreElasticsearch.ConsoleApp.csproj",
+        "projectName": "DotnetCoreElasticsearch.ConsoleApp",
+        "projectPath": "D:\\Projeler\\ElasticSearchTest\\DotnetCoreElasticsearch\\DotnetCoreElasticsearch.ConsoleApp\\DotnetCoreElasticsearch.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\yaktepe\\.nuget\\packages\\",
+        "outputPath": "D:\\Projeler\\ElasticSearchTest\\DotnetCoreElasticsearch\\DotnetCoreElasticsearch.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yaktepe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "D:\\Projeler\\ElasticSearchTest\\DotnetCoreElasticsearch\\DotnetCoreElasticsearch.Entities\\DotnetCoreElasticsearch.Entities.csproj": {
+                "projectPath": "D:\\Projeler\\ElasticSearchTest\\DotnetCoreElasticsearch\\DotnetCoreElasticsearch.Entities\\DotnetCoreElasticsearch.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Elasticsearch.Net": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.2, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "D:\\Projeler\\ElasticSearchTest\\DotnetCoreElasticsearch\\DotnetCoreElasticsearch.Entities\\DotnetCoreElasticsearch.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projeler\\ElasticSearchTest\\DotnetCoreElasticsearch\\DotnetCoreElasticsearch.Entities\\DotnetCoreElasticsearch.Entities.csproj",
+        "projectName": "DotnetCoreElasticsearch.Entities",
+        "projectPath": "D:\\Projeler\\ElasticSearchTest\\DotnetCoreElasticsearch\\DotnetCoreElasticsearch.Entities\\DotnetCoreElasticsearch.Entities.csproj",
+        "packagesPath": "C:\\Users\\yaktepe\\.nuget\\packages\\",
+        "outputPath": "D:\\Projeler\\ElasticSearchTest\\DotnetCoreElasticsearch\\DotnetCoreElasticsearch.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\yaktepe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
